@@ -1,0 +1,138 @@
+.xinsta-items {
+    display: block;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.xinsta-items .item{
+	overflow:hidden;
+}
+.xinsta-items.two-column .item{
+    width: 50%;
+    float: left;
+}
+.xinsta-items.three-column .item{
+    width: 33.3333%;
+    float: left;
+}
+a.insta-link {
+    display: block;
+}
+.xinsta-items .item img {
+	margin:0;
+	transform: scale(1);
+	transition:0.5s;
+}
+.xinsta-items .item img:hover {
+	transform: scale(1.1);
+}
+.insta-slider .item {
+    display: inline-block;
+}
+
+.insta-slider .owl-stage .item {
+    display: block;
+}
+a.insta-link {
+    overflow: hidden;
+}
+.xinsta-slider {
+    position: relative;
+}
+
+.insta-follow {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 99999;
+    display: inline-block;
+}
+.insta-follow a {
+    background: #000;
+    color: #fff;
+    padding: 5px 10px;
+}
+.insta-follow a:hover,
+.insta-follow a:active,
+.insta-follow a:focus{
+    color: inherit;
+	opacity: 1;
+}
+.shownav .owl-nav.disabled {
+    display: block !important;
+}
+
+.xinsta-slider .showdots .owl-dots.disabled {
+    display: block;
+}
+
+
+
+
+
+
+.owl-dots {
+    text-align: center;
+    display:none;
+}
+.showdots .owl-dots {
+    display: block;
+}
+
+.owl-carousel.showdots button.owl-dot {
+    width: 8px;
+    height: 8px;
+    background: #ccc;
+    margin: 0 5px;
+}
+.owl-carousel button.owl-dot.active {
+    background: #000;
+}
+.xinsta-slider .owl-dots {
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+}
+.owl-carousel {
+    position: relative;
+}
+.owl-prev,
+.owl-next{
+    position: absolute;
+    top: 0;
+    height: 60px;
+    width: 60px;
+    bottom: 0;
+    margin: auto;
+}
+.owl-prev{
+	left: 0;
+}
+.owl-next{
+  right: 0;
+}
+.owl-prev span,
+.owl-next span {
+    color: #fff;
+    font-size: 60px;
+	opacity:0;
+	transition:0.5s;
+}
+.owl-carousel:hover .owl-prev span,
+.owl-carousel:hover .owl-next span {
+	opacity:1;
+}
+.owl-nav button:focus {
+    outline: inherit;
+}
+a.insta-link:hover {
+    color: #ededed !important;
+}
