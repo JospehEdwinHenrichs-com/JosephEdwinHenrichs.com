@@ -57,7 +57,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -84,7 +83,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /tag/paper/
 /tag/prototype/
 /portable-philanthropist/
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/
@@ -194,7 +192,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -215,7 +212,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black-300x260.png
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black-231x200.png
 /wp-content/themes/fluida/resources/images/headers/glows.jpg
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/
@@ -224,7 +220,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -250,7 +245,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /tag/paper/
 /tag/prototype/
 /portable-philanthropist/
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/
@@ -342,7 +336,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -363,7 +356,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black-300x260.png
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black-231x200.png
 /wp-content/themes/fluida/resources/images/headers/glows.jpg
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/
@@ -371,7 +363,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -392,7 +383,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black-300x260.png
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black-231x200.png
 /wp-content/themes/fluida/resources/images/headers/glows.jpg
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/
@@ -401,7 +391,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -427,7 +416,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /tag/paper/
 /tag/prototype/
 /portable-philanthropist/
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/
@@ -469,7 +457,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/style.css
 /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
@@ -495,7 +482,6 @@ http://PLACEHOLDER.wpsho/wp-content/uploads/2019/11/13254315_10154243585344874_5
 /tag/paper/
 /tag/prototype/
 /portable-philanthropist/
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/js/frontend.js
 /feed/
 /comments/feed/

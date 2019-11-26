@@ -30,8 +30,6 @@
 /wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/js/admin-bar.js
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/eael.min.css
-/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/eael.min.js
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/resources/images/headers/glows.jpg
 /wp-content/themes/fluida/resources/js/ajax.js
