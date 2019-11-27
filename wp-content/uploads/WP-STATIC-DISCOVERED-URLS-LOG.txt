@@ -30,18 +30,8 @@
 /wp-content/plugins/essential-addons-for-elementor-lite//assets/front-end/img/flexia-preview.jpg
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/css/admin-bar.css
 /wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/js/admin-bar.js
-/wp-content/plugins/slider-hero/css/animate.css
 /wp-content/plugins/slider-hero/css/font-awesome.min.css
-/wp-content/plugins/slider-hero/css/jquery-letterfx.css
-/wp-content/plugins/slider-hero/css/slider_hero.css
-/wp-content/plugins/slider-hero/css/slider_hero_button.css
 /wp-content/plugins/slider-hero/gutenberg/slider-hero-block/dist/blocks.style.build.css
-/wp-content/plugins/slider-hero/js/hero_custom_script.js
-/wp-content/plugins/slider-hero/js/jquery-letterfx.js
-/wp-content/plugins/slider-hero/js/jquery.slider_x.js
-/wp-content/plugins/slider-hero/js/particle_app.js
-/wp-content/plugins/slider-hero/js/particle_custom.js
-/wp-content/plugins/slider-hero/js/particles.js
 /wp-content/themes/fluida/resources/fonts/fontfaces.css
 /wp-content/themes/fluida/resources/images/headers/glows.jpg
 /wp-content/themes/fluida/resources/js/ajax.js
@@ -56,6 +46,7 @@
 /wp-content/uploads/2019/11/cropped-Joe-Logo-New-black.png
 /wp-content/uploads/elementor/css/global.css
 /wp-content/uploads/elementor/css/post-72.css
+/wp-content/uploads/elementor/thumbs/Welcome-e1574816012254-ohb8mwv6g2hmnf3i40ehaa82luzr5uwvllqob2j2i8.png
 /wp-content/uploads/essential-addons-elementor/eael-post-72.min.css
 /wp-content/uploads/essential-addons-elementor/eael-post-72.min.js
 /wp-includes/css/dist/block-editor/style.min.css
